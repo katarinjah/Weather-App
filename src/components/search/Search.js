@@ -37,6 +37,10 @@ const Search = ({ onSearchChange }) => {
             value={search}
             onChange={handleOnchange}
             loadOptions={loadOptions}
+            style={{
+                display: 'block',
+                margin: '0 auto',
+              }}
         />
     )
 

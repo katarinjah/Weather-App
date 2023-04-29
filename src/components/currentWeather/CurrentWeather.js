@@ -1,4 +1,4 @@
-import "./currentWeather.css";
+import "./CurrentWeather.css";
 
 const CurrentWeather = ({ data }) => {
     return (

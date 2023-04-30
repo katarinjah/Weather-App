@@ -2,7 +2,7 @@
 
 **Weather App**
 
-Single-page app created by following [this freeCodeCamp tutorial](https://www.youtube.com/watch?v=Reny0cTTv24&list=PLpXpwo9gJ4hHWhWlQ7d9PmcUdPcAV-Fxu&index=1).  
+Single-page app created by following [this](https://www.youtube.com/watch?v=Reny0cTTv24&list=PLpXpwo9gJ4hHWhWlQ7d9PmcUdPcAV-Fxu&index=1) freeCodeCamp tutorial.  
 It uses OpenWeather and GeoDB Cities APIs.  
 Upon entering a city name in the search field, the current weather conditions are being displayed, as well as an accordion with a 7-day forecast.  
 
